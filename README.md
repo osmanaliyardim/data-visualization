@@ -13,3 +13,8 @@ Visualization of <b>Police Shootings in the USA</b> data (Kaggle Platform Work)
 <li>Kde Plot</li>
 <li>Violin Plot</li>
 <li>Heatmap</li>
+<li>Box Plot</li>
+<li>Swarm Plot</li>
+<li>Pair Plot</li>
+<li>Count Plot</li>
+  
