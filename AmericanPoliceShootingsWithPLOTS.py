@@ -57,7 +57,7 @@ sorted_data2['area_hsGraduation_ratio']=sorted_data2['area_hsGraduation_ratio']/
 data = pd.concat([sorted_data,sorted_data2['area_hsGraduation_ratio']],axis=1)
 data.sort_values('area_poverty_ratio',inplace=True)
 
-# Visualization of Lm, Kde, Heatmap, Violing and Pair
+# Visualization of Lm, Kde, Heatmap, Violin and Pair
 sns.lmplot(x="area_poverty_ratio",y="area_hsGraduation_ratio", data=data) # Lm plot
 sns.kdeplot(data.area_poverty_ratio, data.area_hsGraduation_ratio, shade=True, cut=5) # Kde plot
 
