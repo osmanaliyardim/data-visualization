@@ -2,7 +2,7 @@
 
 Visualization of <b>Police Shootings in the USA</b> data (Kaggle Platform Work)
 
-<b>Plots/Charts:</b>
+<b>Plot Types:</b>
 <ul>
 <li><a href="https://github.com/osmanaliyardim/data-visualization/blob/master/AmericanPoliceShootingsWithBARPLOT.py">Bar Plot</a></li>
 <li><a href="https://github.com/osmanaliyardim/data-visualization/blob/master/AmericanPoliceShootingsWithBARPLOT.py">Horizontal Bar Plot</a></li>
