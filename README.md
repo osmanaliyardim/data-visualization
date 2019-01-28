@@ -9,13 +9,11 @@ Visualization of <b>Police Shootings in the USA</b> data (Kaggle Platform Work)
 <li><a href="https://github.com/osmanaliyardim/data-visualization-with-seaborn/blob/master/AmericanPoliceShootingsWithJOINTPLOT.py">Joint Plot</a></li>
 <li><a href="https://github.com/osmanaliyardim/data-visualization-with-seaborn/blob/master/AmericanPoliceShootingsWithPIECHART.py">Pie Chart</a></li>
 <li><a href="https://github.com/osmanaliyardim/data-visualization-with-seaborn/blob/master/AmericanPoliceShootingsWithPOINTPLOT.py">Point Plot</a></li>
-<li>Lm Plot</li>
-<li>Kde Plot</li>
-<li>Violin Plot</li>
-<li>Heatmap</li>
-<li>Box Plot</li>
-<li>Swarm Plot</li>
-<li>Pair Plot</li>
-<li>Count Plot</li>
-  
-<a href=""></a>
+<li><a href="https://github.com/osmanaliyardim/data-visualization-with-seaborn/blob/master/AmericanPoliceShootingsWithPLOTS.py">Lm Plot</a></li>
+<li><a href="https://github.com/osmanaliyardim/data-visualization-with-seaborn/blob/master/AmericanPoliceShootingsWithPLOTS.py">Kde Plot</a></li>
+<li><a href="https://github.com/osmanaliyardim/data-visualization-with-seaborn/blob/master/AmericanPoliceShootingsWithPLOTS.py">Violin Plot</a></li>
+<li><a href="https://github.com/osmanaliyardim/data-visualization-with-seaborn/blob/master/AmericanPoliceShootingsWithPLOTS.py">Heatmap</a></li>
+<li><a href="https://github.com/osmanaliyardim/data-visualization-with-seaborn/blob/master/AmericanPoliceShootingsWithPLOTS.py">Pair Plot</a></li>
+<li><a href="https://github.com/osmanaliyardim/data-visualization-with-seaborn/blob/master/AmericanPoliceShootingsWithPLOTS2.py">Box Plot</a></li>
+<li><a href="https://github.com/osmanaliyardim/data-visualization-with-seaborn/blob/master/AmericanPoliceShootingsWithPLOTS2.py">Swarm Plot</a></li>
+<li><a href="https://github.com/osmanaliyardim/data-visualization-with-seaborn/blob/master/AmericanPoliceShootingsWithPLOTS2.py">Count Plot</a></li>
