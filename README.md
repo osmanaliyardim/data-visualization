@@ -6,9 +6,9 @@ Visualization of <b>Police Shootings in the USA</b> data (Kaggle Platform Work)
 <ul>
 <li><a href="https://github.com/osmanaliyardim/data-visualization/blob/master/AmericanPoliceShootingsWithBARPLOT.py">Bar Plot</a></li>
 <li><a href="https://github.com/osmanaliyardim/data-visualization/blob/master/AmericanPoliceShootingsWithBARPLOT.py">Horizontal Bar Plot</a></li>
-<li>Joint Plot</li>
-<li>Pie Chart</li>
-<li>Point Plot</li>
+<li><a href="https://github.com/osmanaliyardim/data-visualization-with-seaborn/blob/master/AmericanPoliceShootingsWithJOINTPLOT.py">Joint Plot</a></li>
+<li><a href="https://github.com/osmanaliyardim/data-visualization-with-seaborn/blob/master/AmericanPoliceShootingsWithPIECHART.py">Pie Chart</a></li>
+<li><a href="https://github.com/osmanaliyardim/data-visualization-with-seaborn/blob/master/AmericanPoliceShootingsWithPOINTPLOT.py">Point Plot</a></li>
 <li>Lm Plot</li>
 <li>Kde Plot</li>
 <li>Violin Plot</li>
@@ -18,3 +18,4 @@ Visualization of <b>Police Shootings in the USA</b> data (Kaggle Platform Work)
 <li>Pair Plot</li>
 <li>Count Plot</li>
   
+<a href=""></a>
