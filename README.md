@@ -1,6 +1,6 @@
 # Data Visualization Work
 
-Visualization of <b>Police Shootings in the USA</b> data (Kaggle Platform Work)
+Visualization of <b>Police Shootings in the US</b> data (Kaggle Platform Work)
 
 <b>Plot Types:</b>
 <ul>
